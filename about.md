@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+From smoke signals to the telegraph to the modern smartphone, a means of
+communication is only as helpful as the message it is being used to convey. Spending over 5 hours a day consuming content about anything and
+everything from a little box in our hands has made our generation
+disengaged from education, politics and other causes that matter. We are a group of young people with a plan for turning a world of
+“likes” and “shares” into one which better fosters active participation.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Kreate is just a way for us to make it happen.
