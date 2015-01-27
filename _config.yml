@@ -8,10 +8,10 @@ description: "Who we are, and what we stand for."
 
 email: "tom@kreate.ca"
 #blog logo
-logo: "/assets/images/Kreate-Logo.png"
-k: "/assets/images/Just-The-K.png"
+logo: "/assets/images/kreate-logo.png"
+k: "/assets/images/just-the-k.png"
 # blog cover
-cover: "/assets/images/Kreate-Cover-Photo.jpg"
+cover: "/assets/images/miklos-working.jpg"
 
 name: 'Kreate Solutions'
 author: 'Kreate Solutions'
