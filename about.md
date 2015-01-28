@@ -10,4 +10,4 @@ everything from a little box in our hands has made our generation
 disengaged from education, politics and other causes that matter. We are a group of young people with a plan for turning a world of
 “likes” and “shares” into one which better fosters active participation.
 
-Kreate is just a way for us to make it happen.
+[Kreate is just a way for us to make it happen.](http://www.kreate.ca)
