@@ -20,16 +20,16 @@ Starting December 2014, Lynch began to take another approach, answering every si
 
 #####Then, something amazing happened. Watch (and listen) for yourself:
 
-<iframe title="Yeah" width="480" height="390" src="https://www.youtube.com/watch?v=0fXQ8JyxGC8" frameborder="0" allowfullscreen></iframe>
+<iframe title="Yeah" width="480" height="390" src="https://www.youtube.com/embed/0fXQ8JyxGC8" frameborder="0" allowfullscreen></iframe>
 *Yeah*
 
-<iframe title="I’m thankful" width="480" height="390" src="https://www.youtube.com/watch?v=eJWkoXsuE8I" frameborder="0" allowfullscreen></iframe>
+<iframe title="I’m thankful" width="480" height="390" src="https://www.youtube.com/embed/eJWkoXsuE8I" frameborder="0" allowfullscreen></iframe>
 *I'm thankful*
 
-<iframe title="I'm here so I won't get fined" width="480" height="390" src="https://www.youtube.com/watch?v=G1kvwXsZtU8" frameborder="0" allowfullscreen></iframe>
+<iframe title="I'm here so I won't get fined" width="480" height="390" src="https://www.youtube.com/embed/G1kvwXsZtU8" frameborder="0" allowfullscreen></iframe>
 *I'm here so I won't get fined*
 
-<iframe title="You know why I'm here" width="480" height="390" src="https://www.youtube.com/watch?v=Bn0Z3oj59yU" frameborder="0" allowfullscreen></iframe>
+<iframe title="You know why I'm here" width="480" height="390" src="https://www.youtube.com/embed/Bn0Z3oj59yU" frameborder="0" allowfullscreen></iframe>
 *You know why I'm here*
 
 ---
@@ -46,10 +46,10 @@ I’ll be on the ice for a hockey game this Sunday afternoon, but I know who I�
 
 ##### Deion Sanders interview:
 
-<iframe title="Deion Sanders Interview" width="480" height="390" src="https://www.youtube.com/watch?v=xknBTqR_-GQ" frameborder="0" allowfullscreen></iframe>
+<iframe title="Deion Sanders Interview" width="480" height="390" src="https://www.youtube.com/embed/xknBTqR_-GQ" frameborder="0" allowfullscreen></iframe>
 
 ##### E60 interview:
 
-<iframe title="E60 interview" width="480" height="390" src="https://www.youtube.com/watch?v=uHOHHstmXe4" frameborder="0" allowfullscreen></iframe>
+<iframe title="E60 interview" width="480" height="390" src="https://www.youtube.com/embed/uHOHHstmXe4" frameborder="0" allowfullscreen></iframe>
 
 *Cover photo: Jordan Stead, [seattlepi.com](http://blog.seattlepi.com/football/files/2014/11/sidebar.jpg)*
