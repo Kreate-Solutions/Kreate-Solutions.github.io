@@ -3,7 +3,7 @@ layout: post
 title:  "The Art of Communication with Marshawn Lynch"
 date:   2015-01-29 12:19:12
 author: "Jack Han"
-tags: featured
+tags:
 image: /assets/article_images/2015-01-29-the-art-of-communication-with-marshawn-lynch/lynch.jpg
 ---
 
