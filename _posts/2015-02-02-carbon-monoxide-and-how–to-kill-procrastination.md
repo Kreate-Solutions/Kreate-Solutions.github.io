@@ -3,7 +3,7 @@ layout: post
 title:  "Carbon Monoxide and How to Kill Procrastination"
 date:   2015-02-02 15:41:20
 author: "Jack Han"
-tags: featured
+tags: 
 image: 
 ---
 
