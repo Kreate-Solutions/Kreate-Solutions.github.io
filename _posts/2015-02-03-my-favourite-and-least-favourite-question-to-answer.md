@@ -25,7 +25,7 @@ After that, I typically answer your question in about a sentence or two, at whic
 
 *Action: Tilt my head up a little.*
 
-*Meaning: “Still trying to not lose it.”*
+*Meaning:* “Still trying to not lose it.”
 
 *Action: “Well…”*
 
