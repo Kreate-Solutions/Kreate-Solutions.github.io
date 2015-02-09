@@ -3,7 +3,7 @@ layout: post
 title:  "My Favourite (and Least Favourite) Question to Answer"
 date:   2015-02-03 10:24:46
 author: "Tom Zheng"
-tags: featured
+tags:
 image: "/assets/article_images/2015-02-03-my-favourite-and-least-favourite-question-to-answer/tom_the_thinker.jpg"
 ---
 
