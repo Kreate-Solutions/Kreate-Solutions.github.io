@@ -3,7 +3,7 @@ layout: post
 title:  "Third Time's The Charm"
 date:   2015-02-17 10:33:29
 author: "Tom Zheng"
-tags: featured
+tags: 
 image: "/assets/article_images/2015-02-17-third-times-the-charm/blueprint.jpg"
 ---
 
